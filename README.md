@@ -8,4 +8,6 @@ A Web Application created using Django Framework for displaying the current weat
 
 Cities can be managed via admin area too.
 
-Make sure to run manage.py while in My_Weather_Webapp
+Make sure to run manage.py while in My_Weather_Webapp 
+
+P.S: I'm using this repo to understand more about the concept of Python and Django
